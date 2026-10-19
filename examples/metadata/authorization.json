@@ -1,0 +1,7 @@
+{
+  "policy_id": "teaching-authorization", "title": "教学示例内部授权管理规定",
+  "version": "1.0", "issuer": "教学示例", "effective_date": "2025-01-01",
+  "source_url": null, "access_level": "restricted", "document_type": "teaching",
+  "allowed_roles": ["compliance", "admin"], "organizations": ["demo-bank"],
+  "scopes": ["authorization"], "reviewed": true, "reviewed_by": "教学样例维护者"
+}

@@ -1,0 +1,64 @@
+{
+  "requested_action": "用户明确要求：你直接进行导入",
+  "authorization_type": "explicit_user_import_instruction",
+  "review_scope": "自动核对公开来源事实摘要及格式，用户批准入库；不表示银行审核或商业授权",
+  "rights_status": "rights_review_pending",
+  "commercial_permission_obtained": false,
+  "created_at": "2026-10-12T13:13:53.424708+08:00",
+  "approved_by": "local-admin",
+  "imports": [
+    {
+      "id": "icbc-debit",
+      "policy_id": "big-four-icbc-debit-summary",
+      "clauses": 4,
+      "content_kind": "summary",
+      "scope": "icbc"
+    },
+    {
+      "id": "abc-debit",
+      "policy_id": "big-four-abc-debit-summary",
+      "clauses": 4,
+      "content_kind": "summary",
+      "scope": "abc"
+    },
+    {
+      "id": "abc-credit",
+      "policy_id": "big-four-abc-credit-summary",
+      "clauses": 4,
+      "content_kind": "summary",
+      "scope": "abc"
+    },
+    {
+      "id": "boc-debit",
+      "policy_id": "big-four-boc-debit-summary",
+      "clauses": 4,
+      "content_kind": "summary",
+      "scope": "boc"
+    },
+    {
+      "id": "boc-credit",
+      "policy_id": "big-four-boc-credit-summary",
+      "clauses": 4,
+      "content_kind": "summary",
+      "scope": "boc"
+    },
+    {
+      "id": "ccb-debit",
+      "policy_id": "big-four-ccb-debit-summary",
+      "clauses": 4,
+      "content_kind": "summary",
+      "scope": "ccb"
+    },
+    {
+      "id": "ccb-credit",
+      "policy_id": "big-four-ccb-credit-summary",
+      "clauses": 4,
+      "content_kind": "summary",
+      "scope": "ccb"
+    }
+  ],
+  "previous_snapshot": "snap_fd48142fc692487baa5112625004dc1d",
+  "status": "published",
+  "snapshot_id": "snap_0c5fc959a4ea40cf8480240ad2c2aa50",
+  "publish_seconds": 1.45
+}

@@ -1,0 +1,25 @@
+{
+  "policy_id": "big-four-ccb-debit-summary",
+  "title": "中国建设银行龙卡借记卡章程（2018年版）——公开资料事实摘要（非官方原文）",
+  "version": "summary-2026.10.12-v1",
+  "effective_date": "2026-10-12",
+  "expiry_date": null,
+  "issuer": "项目公开资料整理；来源：建设银行",
+  "document_number": "",
+  "source_url": "https://creditcard1.ccb.com/chn/2025-02/24/article_2025022414432244559.shtml",
+  "access_level": "public",
+  "allowed_roles": [
+    "employee",
+    "compliance",
+    "admin"
+  ],
+  "organizations": [],
+  "scopes": [
+    "ccb"
+  ],
+  "document_type": "public",
+  "content_kind": "summary",
+  "source_effective_date": "2018-08-15",
+  "reviewed": true,
+  "reviewed_by": "local-admin"
+}

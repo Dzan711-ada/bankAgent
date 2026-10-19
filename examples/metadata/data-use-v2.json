@@ -1,0 +1,7 @@
+{
+  "policy_id": "teaching-data-use", "title": "教学示例某银行数据提取管理规定",
+  "version": "2.0", "issuer": "教学示例", "effective_date": "2026-01-01",
+  "source_url": null, "access_level": "public", "document_type": "teaching",
+  "allowed_roles": ["employee", "compliance", "admin"], "organizations": [],
+  "scopes": ["data"], "reviewed": true, "reviewed_by": "教学样例维护者"
+}

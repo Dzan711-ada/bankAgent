@@ -1,0 +1,19 @@
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+data/
+*.egg-info/
+dist/
+build/
+.tmp/
+
+
+# Local configuration and generated files
+.idea/
+.mypy_cache/
+*.log

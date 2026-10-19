@@ -1,0 +1,25 @@
+{
+  "policy_id": "big-four-boc-credit-summary",
+  "title": "中国银行股份有限公司信用卡章程（2024年版）——公开资料事实摘要（非官方原文）",
+  "version": "summary-2026.10.12-v1",
+  "effective_date": "2026-10-12",
+  "expiry_date": null,
+  "issuer": "项目公开资料整理；来源：中国银行",
+  "document_number": "",
+  "source_url": "https://www.boc.cn/bcservice/bi2/202402/P020240207374940847971.pdf",
+  "access_level": "public",
+  "allowed_roles": [
+    "employee",
+    "compliance",
+    "admin"
+  ],
+  "organizations": [],
+  "scopes": [
+    "boc"
+  ],
+  "document_type": "public",
+  "content_kind": "summary",
+  "source_effective_date": "2024-03-31",
+  "reviewed": false,
+  "reviewed_by": ""
+}

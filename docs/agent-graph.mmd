@@ -1,0 +1,32 @@
+---
+config:
+  flowchart:
+    curve: linear
+---
+graph TD;
+	__start__([<p>__start__</p>]):::first
+	access(access)
+	analyze(analyze)
+	retrieve(retrieve)
+	supplement(supplement)
+	generate(generate)
+	validate(validate)
+	repair(repair)
+	finalize(finalize)
+	__end__([<p>__end__</p>]):::last
+	__start__ --> access;
+	access -.-> analyze;
+	access -.-> finalize;
+	analyze -.-> finalize;
+	analyze -.-> retrieve;
+	generate --> validate;
+	repair --> validate;
+	retrieve --> supplement;
+	supplement -.-> generate;
+	validate -.-> finalize;
+	validate -.-> repair;
+	finalize --> __end__;
+	supplement -.-> supplement;
+	classDef default fill:#f2f0ff,line-height:1.2
+	classDef first fill-opacity:0
+	classDef last fill:#bfb6fc

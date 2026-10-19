@@ -1,0 +1,160 @@
+{
+  "cases": [
+    {
+      "scope": "icbc",
+      "question": "工商银行借记卡申领需要哪些材料，是否需要银行审核？",
+      "http_status": 200,
+      "status": "answered",
+      "demo_mode": false,
+      "answer": "【所引资料包含整理摘要（非官方原文），请通过来源链接核对官方资料。】\n以下为相关资料，请结合业务事实核对适用条件。\n\n第二条（整理条目，非官方条款编号） 工商银行借记卡申领摘要：申请人须符合发卡条件，提交实名制要求的有效身份证件，银行审核通过后办理开户。 [big-four-icbc-debit-summary:summary-2026.10.12-v1:148bad3fe0d032d46ab1]",
+      "missing_information": [],
+      "checks": [
+        "access_date_version_checked",
+        "retrieval_access_rechecked",
+        "context_budget_checked",
+        "supplement_bounded",
+        "dependency_access_rechecked",
+        "exact_original_quote_checked",
+        "claims_citations_checked",
+        "auxiliary_semantic_review",
+        "validation_passed"
+      ],
+      "snapshot_id": "snap_0c5fc959a4ea40cf8480240ad2c2aa50",
+      "trace_id": "e38132e29dc845b9ac4d93e064ba5e2a",
+      "bank_scope_valid": true,
+      "public_summary_labels_valid": true,
+      "evidence": [
+        {
+          "evidence_id": "big-four-icbc-debit-summary:summary-2026.10.12-v1:148bad3fe0d032d46ab1",
+          "content_kind": "summary",
+          "source_effective_date": "2026-06-01",
+          "source_url": "https://media.icbc.com.cn/agreement/1279651951461629952.html"
+        },
+        {
+          "evidence_id": "big-four-icbc-debit-summary:summary-2026.10.12-v1:520eea403b246764a2ac",
+          "content_kind": "summary",
+          "source_effective_date": "2026-06-01",
+          "source_url": "https://media.icbc.com.cn/agreement/1279651951461629952.html"
+        }
+      ],
+      "seconds": 4.7
+    },
+    {
+      "scope": "abc",
+      "question": "农业银行个人借记卡委托他人申领后需要如何激活？",
+      "http_status": 200,
+      "status": "answered",
+      "demo_mode": false,
+      "answer": "【所引资料包含整理摘要（非官方原文），请通过来源链接核对官方资料。】\n以下为相关资料，请结合业务事实核对适用条件。\n\n第二条（整理条目，非官方条款编号） 农业银行借记卡代理申领摘要：委托他人申领后，客户须携本人有效身份证件及银行卡到农业银行网点激活。 [big-four-abc-debit-summary:summary-2026.10.12-v1:268ef154b668ecc1f69c]",
+      "missing_information": [],
+      "checks": [
+        "access_date_version_checked",
+        "retrieval_access_rechecked",
+        "context_budget_checked",
+        "supplement_bounded",
+        "dependency_access_rechecked",
+        "exact_original_quote_checked",
+        "claims_citations_checked",
+        "auxiliary_semantic_review",
+        "validation_passed"
+      ],
+      "snapshot_id": "snap_0c5fc959a4ea40cf8480240ad2c2aa50",
+      "trace_id": "7451368772364bfa92a9c7d382d8462a",
+      "bank_scope_valid": true,
+      "public_summary_labels_valid": true,
+      "evidence": [
+        {
+          "evidence_id": "big-four-abc-debit-summary:summary-2026.10.12-v1:268ef154b668ecc1f69c",
+          "content_kind": "summary",
+          "source_effective_date": null,
+          "source_url": "https://www.abchina.com.cn/cn/PersonalServices/zcxy221101/zhkh221101/202301/P020230111446368301264.pdf"
+        },
+        {
+          "evidence_id": "big-four-abc-credit-summary:summary-2026.10.12-v1:41b1e566a41fcaf3e4ce",
+          "content_kind": "summary",
+          "source_effective_date": "2023-06-17",
+          "source_url": "https://www.abchina.com/cn/CreditCard/AboutUs/Update/202304/W020230425333626683792.pdf"
+        }
+      ],
+      "seconds": 5.39
+    },
+    {
+      "scope": "boc",
+      "question": "中国银行个人信用卡主卡申请的年龄和资料要求是什么？",
+      "http_status": 200,
+      "status": "answered",
+      "demo_mode": false,
+      "answer": "【所引资料包含整理摘要（非官方原文），请通过来源链接核对官方资料。】\n以下为相关资料，请结合业务事实核对适用条件。\n\n第一条（整理条目，非官方条款编号） 中国银行个人信用卡主卡资格摘要：申请人须年满18岁，具有完全民事行为能力及稳定收入，提交有效身份证明和银行要求的补充文件。 [big-four-boc-credit-summary:summary-2026.10.12-v1:b13a95c21a2ed7b237f1]\n\n第二条（整理条目，非官方条款编号） 中国银行信用卡申请材料摘要：填写申请及提交证明须符合银行要求，资料须真实、完整并保持有效，同时确认有关章程和合约。 [big-four-boc-credit-summary:summary-2026.10.12-v1:3c81fa89ddaddd19407c]",
+      "missing_information": [],
+      "checks": [
+        "access_date_version_checked",
+        "retrieval_access_rechecked",
+        "context_budget_checked",
+        "supplement_bounded",
+        "dependency_access_rechecked",
+        "exact_original_quote_checked",
+        "claims_citations_checked",
+        "auxiliary_semantic_review",
+        "validation_passed"
+      ],
+      "snapshot_id": "snap_0c5fc959a4ea40cf8480240ad2c2aa50",
+      "trace_id": "e12512656b0a4a8b80dfd3f616f9fe13",
+      "bank_scope_valid": true,
+      "public_summary_labels_valid": true,
+      "evidence": [
+        {
+          "evidence_id": "big-four-boc-credit-summary:summary-2026.10.12-v1:b13a95c21a2ed7b237f1",
+          "content_kind": "summary",
+          "source_effective_date": "2024-03-31",
+          "source_url": "https://www.boc.cn/bcservice/bi2/202402/P020240207374940847971.pdf"
+        },
+        {
+          "evidence_id": "big-four-boc-credit-summary:summary-2026.10.12-v1:3c81fa89ddaddd19407c",
+          "content_kind": "summary",
+          "source_effective_date": "2024-03-31",
+          "source_url": "https://www.boc.cn/bcservice/bi2/202402/P020240207374940847971.pdf"
+        }
+      ],
+      "seconds": 5.06
+    },
+    {
+      "scope": "ccb",
+      "question": "建设银行龙卡借记卡申领时有哪些身份证明和合约要求？",
+      "http_status": 200,
+      "status": "answered",
+      "demo_mode": false,
+      "answer": "【所引资料包含整理摘要（非官方原文），请通过来源链接核对官方资料。】\n以下为相关资料，请结合业务事实核对适用条件。\n\n第一条（整理条目，非官方条款编号） 建设银行龙卡借记卡申领摘要：个人提交有效实名身份证明和银行要求的资料，确认章程并签订领卡合约，符合条件后发卡。 [big-four-ccb-debit-summary:summary-2026.10.12-v1:e972904230b5c05c40fb]\n\n第二条（整理条目，非官方条款编号） 建设银行龙卡借记卡代理摘要：无或限制民事行为能力者的申领、挂失、换卡等特殊业务，按章程由法定代理人办理。 [big-four-ccb-debit-summary:summary-2026.10.12-v1:420f9783fbd1d9fbafb5]",
+      "missing_information": [],
+      "checks": [
+        "access_date_version_checked",
+        "retrieval_access_rechecked",
+        "context_budget_checked",
+        "supplement_bounded",
+        "dependency_access_rechecked",
+        "exact_original_quote_checked",
+        "claims_citations_checked",
+        "auxiliary_semantic_review",
+        "validation_passed"
+      ],
+      "snapshot_id": "snap_0c5fc959a4ea40cf8480240ad2c2aa50",
+      "trace_id": "cd2947675e52487c9669fe2c31b55de6",
+      "bank_scope_valid": true,
+      "public_summary_labels_valid": true,
+      "evidence": [
+        {
+          "evidence_id": "big-four-ccb-debit-summary:summary-2026.10.12-v1:e972904230b5c05c40fb",
+          "content_kind": "summary",
+          "source_effective_date": "2018-08-15",
+          "source_url": "https://creditcard1.ccb.com/chn/2025-02/24/article_2025022414432244559.shtml"
+        },
+        {
+          "evidence_id": "big-four-ccb-debit-summary:summary-2026.10.12-v1:420f9783fbd1d9fbafb5",
+          "content_kind": "summary",
+          "source_effective_date": "2018-08-15",
+          "source_url": "https://creditcard1.ccb.com/chn/2025-02/24/article_2025022414432244559.shtml"
+        }
+      ],
+      "seconds": 5.81
+    }
+  ]
+}

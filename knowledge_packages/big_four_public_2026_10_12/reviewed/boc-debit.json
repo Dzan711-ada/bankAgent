@@ -1,0 +1,25 @@
+{
+  "policy_id": "big-four-boc-debit-summary",
+  "title": "中国银行股份有限公司长城借记卡章程（2021年版）——公开资料事实摘要（非官方原文）",
+  "version": "summary-2026.10.12-v1",
+  "effective_date": "2026-10-12",
+  "expiry_date": null,
+  "issuer": "项目公开资料整理；来源：中国银行",
+  "document_number": "",
+  "source_url": "https://www.boc.cn/bcservice/bc3/bc31/202111/P020211109538431875935.pdf",
+  "access_level": "public",
+  "allowed_roles": [
+    "employee",
+    "compliance",
+    "admin"
+  ],
+  "organizations": [],
+  "scopes": [
+    "boc"
+  ],
+  "document_type": "public",
+  "content_kind": "summary",
+  "source_effective_date": null,
+  "reviewed": true,
+  "reviewed_by": "local-admin"
+}

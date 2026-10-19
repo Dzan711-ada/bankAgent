@@ -1,0 +1,25 @@
+{
+  "policy_id": "big-four-icbc-debit-summary",
+  "title": "中国工商银行借记卡章程（2026年版）——公开资料事实摘要（非官方原文）",
+  "version": "summary-2026.10.12-v1",
+  "effective_date": "2026-10-12",
+  "expiry_date": null,
+  "issuer": "项目公开资料整理；来源：工商银行",
+  "document_number": "",
+  "source_url": "https://media.icbc.com.cn/agreement/1279651951461629952.html",
+  "access_level": "public",
+  "allowed_roles": [
+    "employee",
+    "compliance",
+    "admin"
+  ],
+  "organizations": [],
+  "scopes": [
+    "icbc"
+  ],
+  "document_type": "public",
+  "content_kind": "summary",
+  "source_effective_date": "2026-06-01",
+  "reviewed": true,
+  "reviewed_by": "local-admin"
+}

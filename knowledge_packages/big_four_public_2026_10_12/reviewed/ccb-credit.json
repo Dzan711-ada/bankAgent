@@ -1,0 +1,25 @@
+{
+  "policy_id": "big-four-ccb-credit-summary",
+  "title": "中国建设银行龙卡信用卡章程（2024年版）——公开资料事实摘要（非官方原文）",
+  "version": "summary-2026.10.12-v1",
+  "effective_date": "2026-10-12",
+  "expiry_date": null,
+  "issuer": "项目公开资料整理；来源：建设银行",
+  "document_number": "",
+  "source_url": "https://creditcard.ccb.com/chn/creditcard/service/card_zhangcheng.shtml",
+  "access_level": "public",
+  "allowed_roles": [
+    "employee",
+    "compliance",
+    "admin"
+  ],
+  "organizations": [],
+  "scopes": [
+    "ccb"
+  ],
+  "document_type": "public",
+  "content_kind": "summary",
+  "source_effective_date": "2024-09-02",
+  "reviewed": true,
+  "reviewed_by": "local-admin"
+}

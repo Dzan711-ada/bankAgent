@@ -1,0 +1,25 @@
+{
+  "policy_id": "big-four-abc-debit-summary",
+  "title": "中国农业银行金穗借记卡章程 ABC(2022)4001——公开资料事实摘要（非官方原文）",
+  "version": "summary-2026.10.12-v1",
+  "effective_date": "2026-10-12",
+  "expiry_date": null,
+  "issuer": "项目公开资料整理；来源：农业银行",
+  "document_number": "",
+  "source_url": "https://www.abchina.com.cn/cn/PersonalServices/zcxy221101/zhkh221101/202301/P020230111446368301264.pdf",
+  "access_level": "public",
+  "allowed_roles": [
+    "employee",
+    "compliance",
+    "admin"
+  ],
+  "organizations": [],
+  "scopes": [
+    "abc"
+  ],
+  "document_type": "public",
+  "content_kind": "summary",
+  "source_effective_date": null,
+  "reviewed": false,
+  "reviewed_by": ""
+}
